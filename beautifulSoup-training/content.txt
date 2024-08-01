@@ -1,0 +1,14 @@
+[<html>
+<head>
+<title>BeautifulSoup - Scraping Email IDs</title>
+</head>
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>, <head>
+<title>BeautifulSoup - Scraping Email IDs</title>
+</head>, <title>BeautifulSoup - Scraping Email IDs</title>, <body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>, <h1>This is a heading</h1>, <p>This is a paragraph.</p>]
