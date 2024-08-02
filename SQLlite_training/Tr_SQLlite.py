@@ -9,7 +9,6 @@ connect = sqlite3.connect(sql_file)
 
 cr = connect.cursor()
 
-
 cr.execute("""CREATE TABLE IF NOT exists User (
             id integer unique primary key autoincrement,
             username varchar(120) UNIQUE NOT NULL,
