@@ -154,7 +154,7 @@ send_btn = driver.find_element(By.CSS_SELECTOR, '[data-testid="send-button"]')
 
 search_bar.click()
 
-question = 'How can I see how are you in spanish and only tell me the answer only'
+question = 'How can I see how are you in spanish and tell me the answer only'
 
 search_bar.send_keys(question)
 
